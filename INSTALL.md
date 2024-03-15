@@ -61,14 +61,16 @@ To style the following widgets, please assign them the given id. For example, to
 
 #### Widget IDs for Dracula theme
 
+```
 | Widget   | ID                       | Example              |
 | -------- | ------------------------ | -------------------- |
 | Calendar | dracula-calendar         | id: dracula-calendar |
 | Glances  | glances-your_glance_name | id: glances-cpu      |
+```
 
 ### Icons
 
-All icons can be previewed [here](icons-preview.md).
+All icons can be previewed [here](https://github.com/dracula/homepage-app/blob/main/icons-preview.md).
 
 ```yaml
 - Portainer:
